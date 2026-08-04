@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0435-non-overlapping-intervals) |
 | [0733-flood-fill](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0733-flood-fill) |
 | [1046-last-stone-weight](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/1046-last-stone-weight) |
 ## Depth-First Search
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0703-kth-largest-element-in-a-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
