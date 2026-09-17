@@ -72,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
