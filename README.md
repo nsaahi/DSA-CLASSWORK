@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0733-flood-fill](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0733-flood-fill) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Backtracking
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/nsaahi/DSA-CLASSWORK/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
